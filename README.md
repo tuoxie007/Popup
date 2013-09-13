@@ -1,7 +1,8 @@
-# Popup
+# Screenshot
 
-Popup project is a demo with custom popover window appearing from the icon in the Mac OS X status bar.
+![image](https://raw.github.com/tuoxie007/ToggleProxy/master/screenshot-1.png)
+![image](https://raw.github.com/tuoxie007/ToggleProxy/master/screenshot-2.png)
 
 # License
 
-Popup is licensed under the BSD license.
+Toggle Proxy is licensed under the BSD license.
