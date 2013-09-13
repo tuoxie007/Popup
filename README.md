@@ -5,4 +5,4 @@
 
 # License
 
-Toggle Proxy is licensed under the BSD license.
+ToggleProxy is licensed under the BSD license.
